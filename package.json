@@ -1,0 +1,53 @@
+{
+  "name": "manage-landing-page",
+  "version": "1.0.0",
+  "author": {
+    "name": "MrGeminus",
+    "email": "contact@mrgeminus.com",
+    "url": "http://mrgeminus.com/"
+  },
+  "description": "This is a solution to the FAQ accordion card challenge on Frontend Mentor.",
+  "keywords": [
+    "HTML5",
+    "Accessibility",
+    "SCSS",
+    "TypeScript",
+    "Vite",
+    "PNPM",
+    "Front-End",
+    "Manage landing page",
+    "Frontend Mentor"
+  ],
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "sass": "^1.54.5",
+    "typescript": "^4.6.4",
+    "vite": "^3.0.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrGeminus/manage-landing-page.git"
+  },
+  "homepage": "https://github.com/MrGeminus/manage-landing-page#readme",
+  "bugs": {
+    "url": "https://github.com/MrGeminus/manage-landing-page/issues",
+    "email": "support@mrgeminus.com"
+  },
+  "license": "MIT",
+  "funding": [
+    {
+      "type": "Buy Me A Coffee",
+      "url": "https://www.buymeacoffee.com/mrgeminus"
+    },
+    {
+      "type": "Subscribe Star",
+      "url": "https://www.subscribestar.com/mrgeminus"
+    }
+  ]
+}
