@@ -23,6 +23,6 @@
     "src",
     "src/vite-env.d.ts",
     "src/scss/main.ts",
-    "src/main.ts"
+    "src/ts/main.ts"
   ]
 }
